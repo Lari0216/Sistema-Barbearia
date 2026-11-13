@@ -1,6 +1,5 @@
 import { Pool } from "pg"
 
-
 const pool = new Pool({
     database: "sistemabarbearia", 
     user: "postgres", 
